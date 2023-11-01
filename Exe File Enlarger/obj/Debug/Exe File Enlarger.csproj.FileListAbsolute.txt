@@ -1,0 +1,14 @@
+C:\Users\Ejder\source\repos\Exe File Enlarger\Exe File Enlarger\bin\Debug\Exe File Enlarger.exe.config
+C:\Users\Ejder\source\repos\Exe File Enlarger\Exe File Enlarger\bin\Debug\Exe File Enlarger.exe
+C:\Users\Ejder\source\repos\Exe File Enlarger\Exe File Enlarger\bin\Debug\Exe File Enlarger.pdb
+C:\Users\Ejder\source\repos\Exe File Enlarger\Exe File Enlarger\bin\Debug\Guna.UI2.dll
+C:\Users\Ejder\source\repos\Exe File Enlarger\Exe File Enlarger\obj\Debug\Exe File Enlarger.csproj.AssemblyReference.cache
+C:\Users\Ejder\source\repos\Exe File Enlarger\Exe File Enlarger\obj\Debug\Exe_File_Enlarger.About.resources
+C:\Users\Ejder\source\repos\Exe File Enlarger\Exe File Enlarger\obj\Debug\Exe_File_Enlarger.File_Pumper.resources
+C:\Users\Ejder\source\repos\Exe File Enlarger\Exe File Enlarger\obj\Debug\Exe_File_Enlarger.Form1.resources
+C:\Users\Ejder\source\repos\Exe File Enlarger\Exe File Enlarger\obj\Debug\Exe_File_Enlarger.Properties.Resources.resources
+C:\Users\Ejder\source\repos\Exe File Enlarger\Exe File Enlarger\obj\Debug\Exe File Enlarger.csproj.GenerateResource.cache
+C:\Users\Ejder\source\repos\Exe File Enlarger\Exe File Enlarger\obj\Debug\Exe File Enlarger.csproj.CoreCompileInputs.cache
+C:\Users\Ejder\source\repos\Exe File Enlarger\Exe File Enlarger\obj\Debug\Exe File Enlarger.csproj.CopyComplete
+C:\Users\Ejder\source\repos\Exe File Enlarger\Exe File Enlarger\obj\Debug\Exe File Enlarger.exe
+C:\Users\Ejder\source\repos\Exe File Enlarger\Exe File Enlarger\obj\Debug\Exe File Enlarger.pdb
